@@ -16,7 +16,7 @@ The proposed MAFnet architecture is shown below. One video is splited into T non
 global feature is then used to predict the label of the video. A lateral connection between visual and audio pathways is added trough the FiLM layer [44].
 
 <p align="center">
-   <img src="figs/MAFnet.png" width="400" title="MAFnet">
+   <img src="figs/MAFnet.png" width="800" title="MAFnet">
 </p>
 
 The trained model can be downloaded [here](https://drive.google.com/file/d/1idreklMT5dm3Z85gCdfIUMVhkjZAiGkx/view?usp=sharing).
